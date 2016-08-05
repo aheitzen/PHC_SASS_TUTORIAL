@@ -1,9 +1,16 @@
 # PHC_SASS_TUTORIAL
 
+***
+
 **INSTALLING SASS ON YOUR MACHINE(MAC USERS)**
-* OSX comes with ruby installed, no need to install it
-* In the command line, run the command gem install sass
-* If an error occurs run sudo gem install sass
+* OSX comes with ruby installed, run `ruby -v` in the terminal, if your version is lower than 2.0.0, run `sudo gem install ruby`
+* In the command line, run the command `gem install sass`
+* If an error occurs run `sudo gem install sass`
+* Run `sass -v`, if the version is Sass 3.4.22, you have successfully installed sass
+
+***
+
+**
 
 
 
