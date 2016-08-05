@@ -13,10 +13,10 @@
 * cd into sass_tutorial, create a file called `styles.scss`
 * In styles.scss add a sass variable and apply it to an element:
 	```scss
-	`$primary-color: #009900;
+	$primary-color: #009900;
 		p {
 			color: $primary-color;
-		}`
+		}
 
 
 
