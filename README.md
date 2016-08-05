@@ -39,7 +39,20 @@
 			* _variables.scss
 			* _mixins.scss
 		* **components**
- 
+			* _grid.scss
+			* _variables.scss
+			* _buttons.scss
+			* _typography.scss 
+* In your main.scss file you need to import the partials 
+	```
+	@import "base/variables";
+	@import "base/mixins";
+
+	@import "components/typography";
+	@import "components/buttons";
+	@import "components/sections";
+	@import "components/grid";
+	```
 
 
 
