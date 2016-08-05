@@ -17,7 +17,7 @@
 		p {
 			color: $primary-color;
 		}
-	```scss
+	```
 
 
 
