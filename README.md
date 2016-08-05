@@ -31,11 +31,9 @@
 * Create a sass folder in your main directory(sass_tutorial). Inside of the sass folder create a file called main.scss.
 * main.scss will act as an import file for all the partials in your project 
 * Your file structure should resemble this
-	```
-	*css
-		*main.css
-	```
-
+	1. css
+		* nested
+ 
 
 
 
