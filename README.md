@@ -11,7 +11,7 @@
 **SETTING UP AND COMPILING SCCS INTO CSS IN YOUR PROJECT**
 * Create a directory, in your main code directory(for this tutorial lets call it sass_tutorial)
 * cd into sass_tutorial, create a file called `styles.scss`
-* In styles.scss add a sass variable and apply it to an element:
+* In styles.scss add a sass variable and apply it to an element
 	```css
 	$primary-color: #009900;
 		p {
