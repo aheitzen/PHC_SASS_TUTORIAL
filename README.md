@@ -30,7 +30,7 @@
 * DO NOT create a css folder/files, if sass if compilled correctly it will do this for you
 * Create a sass folder in your main directory(sass_tutorial). Inside of the sass folder create a file called main.scss.
 * main.scss will act as an import file for all the partials in your project 
-* Your file structure should resemble this:
+* Your file structure should resemble this
 	*css
 		*main.css
 		*main.css.map
