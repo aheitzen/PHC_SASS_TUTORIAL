@@ -17,8 +17,8 @@
 	$primary-color: #009900;
 		p {
 			color: $primary-color;
-		}
-		```
+	}
+	```
 
 
 
