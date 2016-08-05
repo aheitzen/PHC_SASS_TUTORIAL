@@ -45,9 +45,11 @@
 			* _typography.scss 
 * In your main.scss file you need to import the partials 
 	```
+	//base
 	@import "base/variables";
 	@import "base/mixins";
 
+	//components
 	@import "components/typography";
 	@import "components/buttons";
 	@import "components/sections";
