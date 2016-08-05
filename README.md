@@ -12,11 +12,12 @@
 * Create a directory, in your main code directory(for this tutorial lets call it sass_tutorial)
 * cd into sass_tutorial, create a file called `styles.scss`
 * In styles.scss add a sass variable and apply it to an element
+	
 	```
 	$primary-color: #009900;
 		p {
 			color: $primary-color;
-		}
+	}
 	```
 
 
