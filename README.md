@@ -32,7 +32,13 @@
 * main.scss will act as an import file for all the partials in your project 
 * Your file structure should resemble this
 	* css
-		* nested
+		* main.css
+		* main.css.map
+	* sass
+		* **base**
+			* _variables.scss
+			* _mixins.scss
+		* **components**
  
 
 
