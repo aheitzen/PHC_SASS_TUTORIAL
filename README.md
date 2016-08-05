@@ -20,6 +20,8 @@
 		color: $primary-color;
 	}
 	```
+* Navigate back to the main dirrectory, in our case, sass_tutorial, and run `sass style.scss:style.css` to compile the scss file into a main.css file. The css file will generate automatically, and from this point on you only modify and code in the scss file, not the css file
+* If done correctly, a few new files will be in your project(style.css, style.map.css, style.scss)
 
 
 
