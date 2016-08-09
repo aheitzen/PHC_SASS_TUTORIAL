@@ -68,22 +68,9 @@
 	* npm/node.js install: 
 		* run `$ npm init`
 		* run `$ npm install bootstrap-sass`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap"; into your main.scss file
+* Add _bootstrap.scss and _variables.scss(both are found in the assests folder) to your sass folder
+* Do not link to any bootstrap css in your html, do link your JavaScript in the html
 
 **TUTORIALS USED** 
 * SASS DOCUMENTATION: http://sass-lang.com/install
